@@ -84,7 +84,7 @@ The dataset is organized into folders:
 
 ## 🤝 Connect with Me
 Feel free to connect or collaborate:
-- **LinkedIn:** [https://www.linkedin.com/in/likuna-swain-b25208346/]
+- **LinkedIn:** https://www.linkedin.com/in/likuna-swain-b25208346/
 - **Email:** likunaswain2@gmail.com
 
 ## 📄 License
